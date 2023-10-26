@@ -1,4 +1,5 @@
 package com.example.project_kotlin
+//kotlin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
